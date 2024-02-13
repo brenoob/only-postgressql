@@ -30,7 +30,7 @@ VALUES
     ('Espírito Santo', 'es' ,'suldeste', 38337.12),
     ('Mato Grosso', 'mt' ,'centro-oeste', 36586.49),
     ('Rio Grande do Norte', 'rn' ,'nordeste', 	33027.29),
-    ('Piauí', 'pi' ,'bordeste', 32711.99),
+    ('Piauí', 'pi' ,'nordeste', 32711.99),
     ('Distrito Federal', 'df' ,'centro-oeste', 28173.81),
     ('Mato Grosso do Sul', 'ms' ,'centro-oeste', 27570.13),
     ('Sergipe', 'se' ,'nordeste', 22095.58),
