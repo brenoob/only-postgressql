@@ -5,5 +5,3 @@ create table IF NOT EXISTS cidades (
     area DECIMAL(10,2),
     FOREIGN key (estado_id) REFERENCES estados(id)
 )
-
-drop table cidades
